@@ -1,0 +1,10 @@
+download the following embeddings and place them in the input folder
+
+#### download w2v
+ gdown https://drive.google.com/file/d/1LDdF6M6VzNhXfJyqb1OXLWno8TrExg6o/view?usp=sharing
+
+#### download glove
+ wget https://drive.google.com/file/d/1P9JFZ43Id9dXOo_xFpqLkx81jOsXrQC0/view?usp=sharing
+
+#### download fastext
+fasttext https://drive.google.com/file/d/1hgb-kxJzFkcktsxBEpthmCxzlwe_IM6o/view?usp=sharing
